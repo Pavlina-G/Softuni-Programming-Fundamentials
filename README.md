@@ -1,2 +1,2 @@
-# This is my First-Repo
+# Softuni Programming Fundamentials - Python
 
