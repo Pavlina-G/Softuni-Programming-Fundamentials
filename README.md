@@ -1,2 +1,2 @@
-# Softuni Programming Fundamentials - Python
+# Softuni Programming Fundamentials - Python Jan-22
 
